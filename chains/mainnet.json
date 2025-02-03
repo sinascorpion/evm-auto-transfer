@@ -12,5 +12,12 @@
     "chainId": "313",
     "symbol": "NCN",
     "explorer": "https://ncnscan.com"
+  },
+  {
+    "name": "Soneium",
+    "rpcUrl": "https://rpc.soneium.org/",
+    "chainId": "1868",
+    "symbol": "ETH",
+    "explorer": "https://soneium.blockscout.com/"
   }
 ]
